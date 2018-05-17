@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Python GUI
+Exec=/home/tak/Desktop/Python/hello_world.py
+Icon=/home/tak/Desktop/Python/work2.png
+Type=Application
+
+Name[en_US]=Python GUI

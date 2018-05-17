@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name = Click To Run
+Exec = /home/tak/Desktop/Python/hello_world.py
+Icon = /home/tak/Desktop/Python/push.jpg
+Type = Application

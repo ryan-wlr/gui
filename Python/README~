@@ -1,0 +1,14 @@
+Steps to create a desktop application:
+
+1.) #!/usr/bin/env python
+2.) Desktop/Pyton$ chmod -x hello_world.py
+3.) 
+
+   [Desktop Entry]
+   Name = Click To Run
+   Exec = /home/tak/Desktop/Python/try.py
+   Icon = /home/tak/Desktop/Python/push.jpg
+   Type = Application
+
+4.) Rename .desktop 
+5.) Change permissions to Executable

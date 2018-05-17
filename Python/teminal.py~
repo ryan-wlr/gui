@@ -1,0 +1,3 @@
+
+
+os.system("gnome-terminal -x python hello_world.py")
